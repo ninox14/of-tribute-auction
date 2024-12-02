@@ -1,0 +1,4 @@
+[build]
+preload = ["./cssPlugin.ts"]
+[start]
+preload = ["./cssPlugin.ts"]
